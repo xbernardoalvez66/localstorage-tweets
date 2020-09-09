@@ -2,7 +2,7 @@
 este es un proyecto javascript que guarda los tweets en el localstorage del navegador
 
 ### Funcionalidades
-
+--------------------
 Este aplicacion web permite al usuario lo siguiente:<br>
 <li>Escribir tweets</li>
 <li>Visualizar tweets en una lista que se guarda en el localstorage</li>
@@ -27,8 +27,8 @@ Proyecto terminado
 -----------
 ### Tecnologias
 En este proyecto se utlizaron las siguientes tecnologias
--[Javascript 6](https://developer.mozilla.org/es/docs/Web/JavaScript)
--[Html5 y css3](https://www.w3schools.com/html/)
+- [Javascript 6](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [Html5 y css3](https://www.w3schools.com/html/)
 
 
 ### Contenido
